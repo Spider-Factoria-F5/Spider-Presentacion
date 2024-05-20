@@ -1,138 +1,80 @@
-impress.js
-============
-
+# 💼 Rastreador de Empleo | Factoría F5 | PRESENTACIÓN IMPRESS.JS 
 [![CircleCI](https://circleci.com/gh/impress/impress.js.svg?style=svg)](https://circleci.com/gh/impress/impress.js)
 
-It's a presentation framework based on the power of CSS3 transforms and
-transitions in modern browsers and inspired by the idea behind prezi.com.
+<p align="center">
+  <img src="https://imgur.com/xBzJbJW.jpg" width="300px" alt="Rastreador Logo"/>
+</p>
 
-**WARNING**
-
-impress.js may not help you if you have nothing interesting to say ;)
-
-
-HOW TO USE IT
----------------
-### Getting Started Guide
-Check out our new [Getting Started](GettingStarted.md) guide if you want a quick introduction to the project!
-
-### Direct download link to only impress.js
-You can include this link directly inside of your HTML file in its header. If you want to learn how to do this, you can find a how-to in the [Getting Started](GettingStarted.md) guide.
-- V2.0.0: https://cdn.jsdelivr.net/gh/impress/impress.js@2.0.0/js/impress.js
-- V1.1.0: https://cdn.jsdelivr.net/gh/impress/impress.js@1.1.0/js/impress.js
-- Source: https://cdn.jsdelivr.net/gh/impress/impress.js/js/impress.js
-
-### Getting Started Guide
-Check out our new [Getting Started](GettingStarted.md) guide if you want a quick introduction to the project!
-
-### Checking out and initializing the git repository
-
-    git clone --recursive https://github.com/impress/impress.js.git
-    cd impress.js
-
-Note: For a minimal checkout, omit the `--recursive` option. This will leave out extra plugins.
-
-**Stable releases**
-
-New features and fixes are continuously merged into the master branch, which is what the above command will check out. For the latest stable release, see the [Github Releases page](https://github.com/impress/impress.js/releases).
+# 🕷️ El Rastreador: Proyecto final DWFS + TI
 
 
-### Documentation
+Bienvenido al repositorio del proyecto final del Bootcamp Desarrollo Web Full Stack + Tecnologías Inmersivas.
+
+## 🧭 Características Generales
+
+- **Tecnologías Utilizadas:** 
+  - Proyecto desarrollado utilizando un stack tecnológico MERN (MongoDB, Express, React y Node.js), asegurando robustez y escalabilidad en la aplicación.
+
+- **Descripción General:** 
+  - Este proyecto es un rastreador de empleo, diseñado como la culminación del bootcamp de desarrollo web con tecnologías inmersivas. 
+  - Se trata de un web scraper que busca ofertas de empleo en varios portales independientes, presentando los resultados en una interfaz de usuario atractiva y funcional.
+
+- **Interfaz Inmersiva:** 
+  - La aplicación ofrece varias secciones inmersivas con soporte para VR, permitiendo a los usuarios visualizar las ofertas de empleo de una manera innovadora y envolvente.
+
+- **Funcionalidades del Administrador:**
+  - **Gestión de Cuentas:** 
+    - El administrador tiene la capacidad de crear y eliminar cuentas de usuario, asegurando un control completo sobre quién puede acceder y utilizar la plataforma.
+  - **Configuración del Scraper:** 
+    - Puede decidir qué tecnologías y portales se rastrean, ajustando el enfoque del scraper según las necesidades y tendencias del mercado laboral.
+  - **Visualización de Datos:** 
+    - Tiene acceso a los datos de los usuarios registrados, permitiéndole analizar y gestionar la información de manera efectiva.
+  - **Creación de Ofertas:** 
+    - Además de rastrear ofertas existentes, el administrador puede crear ofertas de empleo propias, lo cual es útil para aquellas oportunidades que no están publicadas en los portales rastreados.
+
+- **Registro de Usuarios:** 
+  - El registro se realiza mediante un formulario disponible al inicio de la página. 
+  - Los usuarios pueden establecer sus preferencias de empleo, lo que permite al administrador enviarles ofertas personalizadas.
+
+- **Sistema de Roles y Rutas Protegidas:** 
+  - La aplicación incluye un sistema de roles que define diferentes niveles de acceso y funcionalidades para los usuarios, garantizando la seguridad y protección de la información.
+
+- **Entrenamiento con IA:** 
+  - Se ha incorporado una inteligencia artificial que permite a los usuarios entrenar entrevistas de trabajo, mejorando sus habilidades y preparación para el mercado laboral.
+
+- **Accesibilidad:** 
+  - El diseño de la plataforma cumple con los estándares de accesibilidad de la W3C, asegurando que todos los usuarios, independientemente de sus capacidades, puedan utilizarla de manera efectiva.
+
+- **Compromiso con la Sostenibilidad:** 
+  - El desarrollo de este proyecto ha sido llevado a cabo con una mentalidad sostenible, optimizando procesos y seleccionando proveedores que contribuyan a reducir las emisiones de CO2.
+
+Este rastreador de empleo no solo facilita la búsqueda de oportunidades laborales, sino que también ofrece herramientas avanzadas y una experiencia inmersiva que transforma la manera en que los usuarios interactúan con el mercado de trabajo.
 
 
-Reference documentation of core impress.js features and API you can find it in [DOCUMENTATION.md](DOCUMENTATION.md).
+## 🛠️ Herramientas Utilizadas
 
-The [HTML source code](index.html) of the official [impress.js demo](http://impress.github.io/impress.js/) serves as a good example usage and contains comments explaining various features of impress.js. For more information about styling you can look into [CSS code](css/impress-demo.css) which shows how classes provided by impress.js can be used. Last but not least [JavaScript code of impress.js](js/impress.js) has some useful comments if you are interested in how everything works. Feel free to explore!
+El stack tecnológico y herramientas utilizadas:
 
-### Official demo
+| Herramienta       | Uso                                       |
+|-------------------|-------------------------------------------|
+| Balsamic Mocups   | Programa para el prototipado de la web |
+| Trello            | Gestión de proyectos y seguimiento de tareas |
+| Figma             | Diseño de interfaces y estilos             |
+| Photoshop         | Diseño y retoque de imágenes               |
+| Illustrator       | Retoque de imágenes SVG                    |
+| MongoDB / Atlas   | Gestor de bases de datos no relacionales online |
+| Express | Express es un framework JavaScript para el lado del sevidor |
+| Node.js           | Plataforma de ejecución para JavaScript del lado del servidor |
+| React + Vite      | Framework de Frontend para JavaScript |
+| Babylon.js | Libreria para la inclusión de objetos 3D |
+| Visual Studio Code| Entorno de desarrollo
+| Tailwind CSS | Libreria de CSS |
+| HTML5             | Estructura y contenido de la web           |
+| CSS3              | Estilos visuales generales                 |
+| JavaScript        | Lógica y funcionalidades de la aplicación  |
 
-[impress.js demo](http://impress.github.io/impress.js/) by [@bartaz](http://twitter.com/bartaz)
-
-### Examples and demos
-
-The [Classic Slides](http://impress.github.io/impress.js/examples/classic-slides/) demo is targeted towards beginners, or can be used as a template for presentations that look like the traditional PowerPoint slide deck. Over time, it also grew into the example presentation that uses most of the features and addons available.
-
-More examples and demos can be found on [Examples and demos wiki page](http://github.com/impress/impress.js/wiki/Examples-and-demos).
-
-Feel free to add your own example presentations (or websites) there.
-
-### Other tutorials and learning resources
-
-If you want to learn even more there is a [list of tutorials and other learning resources](https://github.com/impress/impress.js/wiki/impress.js-tutorials-and-other-learning-resources)
-on the wiki, too.
-
-There is also a book available about [Building impressive presentations with impress.js](http://www.packtpub.com/building-impressive-presentations-with-impressjs/book) by Rakhitha Nimesh Ratnayake.
-
-You may want to check out the sibling project [Impressionist](https://github.com/henrikingo/impressionist): a 3D GUI editor that can help you in creating impress.js presentations.
-
-### Mailing list
-
-You're welcome to ask impress.js related questions on the [impressionist-presentations](https://groups.google.com/forum/#!forum/impressionist-presentations) mailing list.
+## 🖼️Capturas de pantalla
 
 
-REPOSITORY STRUCTURE
---------------------
+<img src="https://imgur.com/WWJuOEv.jpg" style="width: 70%;" alt="Imagen 1">
 
-* [index.html](index.html): This is the official impress.js demo, showcasing all of the features of the original impress.js, as well as some new plugins as we add them.
-  * As already mentioned, this file is well commented and acts as the official tutorial.
-* [examples/](examples/): Contains several demos showcasing additional features available.
-  * [Classic Slides](examples/classic-slides/index.html) is a simple demo that you can use as template if you want to create very simple, rectangular, PowerPoint-like presentations.
-* [src/](src/): The main file is [src/impress.js](src/impress.js). Additional functionality is implemented as plugins in [src/plugins/](src/plugins/).
-  * See [src/plugins/README.md](src/plugins/README.md) for information about the plugin API and how to write plugins.
-* [test/](test/): Contains QUnit and Syn libraries that we use for writing tests, as well as some test coverage for core functionality. (Yes, more tests are much welcome.) Tests for plugins are in the directory of each plugin.
-* [js/](js/): Contains [js/impress.js](js/impress.js), which contains a concatenation of the core `src/impress.js` and all the plugins. Traditionally this is the file that you'll link to in a browser. In fact both the demo and test files do exactly that.
-* [css/](css/): Contains a CSS file used by the demo. This file is **not required for using impress.js** in your own presentations. Impress.js creates the CSS it needs dynamically.
-* [extras/](extras/) contains plugins that for various reasons aren't enabled by default. You have to explicitly add them with their own `script` element to use them.
-* [build.js](build.js): Simple build file that creates `js/impress.js`. It also creates a minified version `impress.min.js`, but that one is not included in the github repository.
-* [package.json](build.js): An NPM package specification. This was mainly added so you can easily install [buildify](https://www.npmjs.com/package/buildify) and run `node build.js`. Other than the build process, which is really just doing roughly `cat src/impress.js src/plugins/*/*.js > js/impress.js`, and testing, `impress.js` itself doesn't depend on Node or any NPM modules.
-
-WANT TO CONTRIBUTE?
----------------------
-
-For developers, once you've made changes to the code, you should run these commands for testing:
-
-    npm install
-    npm run all
-
-Note that running `firefox qunit_test_runner.html` is usually more informative than running `karma` with `npm run test`. They both run the same tests.
-
-More info about the [src/](src/) directory can be found in [src/plugins/README.md](src/plugins/README.md).
-
-### Requirements
-
-* &gt;= node 7.6
-* npm
-
-
-ABOUT THE NAME
-----------------
-
-impress.js name is [courtesy of @skuzniak](http://twitter.com/skuzniak/status/143627215165333504).
-
-It's an (un)fortunate coincidence that an Open/LibreOffice presentation tool is called Impress ;)
-
-Reference API
---------------
-
-See the [Reference API](DOCUMENTATION.md)
-
-BROWSER SUPPORT
------------------
-
-The design goal for impress.js has been to showcase awesome CSS3 features as found in modern browser versions. We also use some new DOM functionality, and specifically do not use jQuery or any other JavaScript libraries, nor our own functions, to support older browsers. In general, recent versions of Firefox and Chrome are known to work well. Reportedly IE now works too.
-
-The typical use case for impress.js is to create presentations that you present from your own laptop, with a browser version you know works well. Some people also use impress.js successfully to embed animations or presentations in a web page, however, be aware that in this some of your visitors may not see the presentation correctly, or at all.
-
-In particular, impress.js makes use of the following JS and CSS features:
-
-* [DataSet API](http://caniuse.com/#search=dataset)
-* [ClassList API](http://caniuse.com/#search=classlist)
-* [CSS 3D Transforms](http://caniuse.com/#search=css%203d)
-* [CSS Transitions](http://caniuse.com/#search=css%20transition)
-
-COPYRIGHT AND LICENSE
----------------------
-
-Copyright 2011-2012 Bartek Szopka (@bartaz), 2016-2023 Henrik Ingo (@henrikingo) and [70+ other contributors](https://github.com/impress/impress.js/graphs/contributors)
-
-Released under the MIT [License](LICENSE)
