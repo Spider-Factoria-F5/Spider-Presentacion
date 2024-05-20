@@ -62,6 +62,7 @@ El stack tecnológico y herramientas utilizadas:
 | Figma             | Diseño de interfaces y estilos             |
 | Photoshop         | Diseño y retoque de imágenes               |
 | Illustrator       | Retoque de imágenes SVG                    |
+| Impress.js        | Presentación del proyecto                  |
 | MongoDB / Atlas   | Gestor de bases de datos no relacionales online |
 | Express | Express es un framework JavaScript para el lado del sevidor |
 | Node.js           | Plataforma de ejecución para JavaScript del lado del servidor |
@@ -73,8 +74,44 @@ El stack tecnológico y herramientas utilizadas:
 | CSS3              | Estilos visuales generales                 |
 | JavaScript        | Lógica y funcionalidades de la aplicación  |
 
-## 🖼️Capturas de pantalla
+## 🖼️ Capturas de pantalla
 
 
 <img src="https://imgur.com/WWJuOEv.jpg" style="width: 70%;" alt="Imagen 1">
 
+
+
+
+## 🔗 Links de interés
+
+[Trello del proyecto](https://trello.com/b/R00cFFUD/factoria-arana)
+
+[Miro del proyecto](https://miro.com/app/board/uXjVKL8kjTA=/)
+
+[Figma del proyecto](https://www.figma.com/file/3AGQ5GCTKTo7yMGDOSVI9J/Rastreador-Empleo-F5?type=design&node-id=0%3A1&mode=design&t=D2PdoU4x1zQsa8lu-1)
+
+[GitHub Frontend](https://github.com/Spider-Factoria-F5/Spider-Front)
+
+[GitHub Backend](https://github.com/Spider-Factoria-F5/Spider-Back)
+
+[GitHub Presentación](https://github.com/Spider-Factoria-F5/Spider-Presentacion)
+
+
+
+
+## 👥 Desarrollado por:
+
+
+<p align="center">
+  <img src="https://imgur.com/vsqSXhe.jpg" width="300px" alt="Rastreador Logo"/>
+</p>
+
+[Jorge A. Revuelta](https://github.com/JREdesign)
+
+[Ezequiel Palma](https://github.com/EzequielPalma)
+
+[Felipe Díaz](https://github.com/Panickus)
+
+[Mohammed Aarab](https://github.com/Aarab-Mohamed)
+
+[Ana Laredo](https://github.com/metaanita)
