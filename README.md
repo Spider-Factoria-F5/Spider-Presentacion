@@ -1,4 +1,4 @@
-# 💼 Rastreador de Empleo | Factoría F5 | PRESENTACIÓN IMPRESS.JS
+# 💼 Rastreador de Empleo | Factoría F5 | PRESENTACION EN IMPRESS.JS
 [![CircleCI](https://circleci.com/gh/impress/impress.js.svg?style=svg)](https://circleci.com/gh/impress/impress.js)
 
 <p align="center">
@@ -76,13 +76,27 @@ El stack tecnológico y herramientas utilizadas:
 
 ## 🖼️ Capturas de pantalla
 
+<img src="https://imgur.com/v2b4bGQ.jpg" style="width: 70%;" alt="Imagen 1">
 
-<img src="https://imgur.com/WWJuOEv.jpg" style="width: 70%;" alt="Imagen 1">
+<img src="https://imgur.com/uD7N3Zh.jpg" style="width: 70%;" alt="Imagen 2">
 
+<img src="https://imgur.com/WWJuOEv.jpg" style="width: 70%;" alt="Imagen 3">
+
+<img src="https://imgur.com/5TNuu1u.jpg" style="width: 70%;" alt="Imagen 4">
+
+<img src="https://imgur.com/FO6kS08.jpg" style="width: 70%;" alt="Imagen 6">
+
+<img src="https://imgur.com/S9PVWfl.jpg" style="width: 70%;" alt="Imagen 7">
+
+<img src="https://imgur.com/YRNomta.jpg" style="width: 70%;" alt="Imagen 8">
 
 
 
 ## 🔗 Links de interés
+
+[Despliegue del proyecto](https://spiderfront.onrender.com/) 
+
+[Despliegue presentacion](https://spider-factoria-f5.github.io/Spider-Presentacion/#/diapositiva1) 
 
 [Trello del proyecto](https://trello.com/b/R00cFFUD/factoria-arana)
 
@@ -96,7 +110,7 @@ El stack tecnológico y herramientas utilizadas:
 
 [GitHub Presentación](https://github.com/Spider-Factoria-F5/Spider-Presentacion) 
 
-[Despliegue presentacion](https://spider-factoria-f5.github.io/Spider-Presentacion/#/diapositiva1) 
+
 
 
 
