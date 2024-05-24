@@ -2,7 +2,7 @@
 [![CircleCI](https://circleci.com/gh/impress/impress.js.svg?style=svg)](https://circleci.com/gh/impress/impress.js)
 
 <p align="center">
-  <img src="https://imgur.com/xBzJbJW.jpg" width="300px" alt="Rastreador Logo"/>
+  <img src="https://imgur.com/pBA9zqs.jpg" width="300px" alt="Rastreador Logo"/>
 </p>
 
 # 🕷️ El Rastreador: Proyecto final DWFS + TI
