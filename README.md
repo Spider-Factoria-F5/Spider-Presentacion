@@ -39,9 +39,18 @@ Bienvenido al repositorio del proyecto final del Bootcamp Desarrollo Web Full St
 - **Sistema de Roles y Rutas Protegidas:** 
   - La aplicación incluye un sistema de roles que define diferentes niveles de acceso y funcionalidades para los usuarios, garantizando la seguridad y protección de la información.
 
-- **Entrenamiento con IA:** 
+- **ChatBot con IA:** 
   - Se ha incorporado una inteligencia artificial que permite a los usuarios entrenar entrevistas de trabajo, mejorando sus habilidades y preparación para el mercado laboral.
+    
+- **Middleware y microservicios del Backend:**
+    - Todo el backend de la aplicación está arquitectónicamente diseñado para integrar un middleware robusto y escalable. Este middleware actúa como una capa intermedia fundamental, gestionando la lógica de negocio y la comunicación entre las distintas capas de la aplicación. Además, se encarga de implementar políticas de seguridad, manejo de errores y autenticación de usuarios, garantizando así un flujo de datos eficiente y seguro entre nuestros microservicios.
 
+- **Detección de Ofertas Duplicadas:**
+    - Nuestro sistema de web scraping con inteligencia artificial está meticulosamente entrenado para identificar y eliminar ofertas duplicadas entre diferentes portales de empleo. Este entrenamiento permite al scrapper comparar y analizar las descripciones de los puestos de trabajo, asegurando que las oportunidades presentadas sean únicas y relevantes, maximizando recursos de IA y base de datos, y mejorando así la calidad y precisión de los resultados obtenidos.
+ 
+- **Web Scrapper Inteligente:**
+    - Nuestro web scrapper, impulsado por IA, está entrenado para identificar auténticas ofertas de empleo Junior analizando la experiencia requerida en las descripciones. También distingue puestos que exigen un alto nivel de inglés. Todo esto se logra con una optimización que minimiza el consumo de recursos de IA, asegurando eficiencia y precisión en el proceso de filtrado.
+      
 - **Accesibilidad:** 
   - El diseño de la plataforma cumple con los estándares de accesibilidad de la W3C, asegurando que todos los usuarios, independientemente de sus capacidades, puedan utilizarla de manera efectiva.
 
